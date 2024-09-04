@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 -->
 
 <div  align="center" style="margin-bottom:100px">
-<img height=200 width=43% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=patriciacatandi&theme=radical&mode=weekly" />
+<img height=200 width=43% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ltsmartins&theme=radical&mode=weekly" />
 <img height=200 width=44% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ltsmartins&show_icons=true&theme=radical&layout=compact" />
 </div>
  
 <div  align="center" style="margin-bottom:100px">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=patriciacatandi&theme=radical&show_icons=true&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ltsmartins&theme=radical&show_icons=true&card_width=200" />
 </div>
 
  &nbsp;
