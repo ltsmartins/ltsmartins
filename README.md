@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 
 <!--
-**patriciacatandi/patriciacatandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ltsmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:frowning_woman: I'm Patricia and I <br>
-:telescope:	am physicist who <br>
-:heart: loves Data Science and Data Engineering <br>
+:frowning_woman: I'm Iuri and I <br>
+:telescope:	am Data Science Student who <br>
+:heart: loves Data Science <br>
 :woman_student: feels very happy when learning new things <br>
 🌱 and happier when teaching <br>
 
