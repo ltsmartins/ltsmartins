@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:frowning_man: I'm Iuri and I <br>
-:telescope:	am Data Science Student who <br>
-:heart: loves data  <br>
-:man_student: feels very happy when learning new things.<br>
+:frowning_man: My name is Iuri and <br>
+:telescope:	I'm a Data Science Student<br>
+:heart: who (REALLY) loves data  <br>
+:man_student: and feels thrilled when learn new things.<br>
 
 
 ## Github Statistics
